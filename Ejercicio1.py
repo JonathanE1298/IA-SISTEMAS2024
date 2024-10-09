@@ -1,3 +1,5 @@
+#Ejercicio 1
+
 class Rectangulo:
     def __init__(self, base, altura):
         self.base = base
@@ -15,5 +17,4 @@ rectangulo = Rectangulo(5, 3)
 print(f"Área del rectángulo: {rectangulo.area()}")
 print(f"Perímetro del rectángulo: {rectangulo.perimetro()}")
 
-#Ejercicio 1
 
