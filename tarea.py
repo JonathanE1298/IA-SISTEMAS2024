@@ -14,3 +14,6 @@ rectangulo = Rectangulo(5, 3)
 
 print(f"Área del rectángulo: {rectangulo.area()}")
 print(f"Perímetro del rectángulo: {rectangulo.perimetro()}")
+
+#Ejercicio 1
+
